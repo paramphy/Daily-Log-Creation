@@ -1,12 +1,17 @@
 import time
 import quotes
+import os.path 
 
 while True:
+    path = r'C:\Users\param\Desktop\Daily_logs'
+     
     #rq = quotes.random_quote()
     clock_time = time.gmtime() 
     date = time.asctime(clock_time)
-    file1 = open(str(clock_time.tm_mday) +"."+ str(clock_time.tm_mon)+ "." + str(clock_time.tm_year) + ".txt", "a") 
-
+    name = str(clock_time.tm_mday) +"."+ str(clock_time.tm_mon)+ "." + str(clock_time.tm_year) + ".txt"
+    completeName = os.path.join(path, name)
+    file1 = open(completeName, "a") 
+    
     # Writing to file 
     file1.write(date)
     file1.write("\n" + str(quotes.random_quote()) + "\n\n")
