@@ -24,4 +24,4 @@ while True:
     file1.close() 
 
     # using sleep() to hault execution 
-    time.sleep(24*60*60) 
+    time.sleep(12*60*60) 
