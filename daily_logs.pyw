@@ -1,4 +1,5 @@
 import time
+import datetime
 import quotes
 import os.path 
 
@@ -7,7 +8,7 @@ while True:
      
     #rq = quotes.random_quote()
     clock_time = time.gmtime() 
-    date = time.asctime(clock_time)
+    date = datetime.datetime.now()
     name = str(clock_time.tm_mday) +"."+ str(clock_time.tm_mon)+ "." + str(clock_time.tm_year) + ".txt"
     completeName = os.path.join(path, name)
     file1 = open(completeName, "a") 
@@ -24,4 +25,5 @@ while True:
     file1.close() 
 
     # using sleep() to hault execution 
-    time.sleep(12*60*60) 
+    time_t  = 12*60*60
+    time.sleep(time_t) 
