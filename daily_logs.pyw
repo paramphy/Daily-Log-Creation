@@ -14,12 +14,12 @@ while True:
     file1 = open(completeName, "a") 
     
     # Writing to file 
-    file1.write(date)
+    file1.write(str(date))
     file1.write("\n" + str(quotes.random_quote()) + "\n\n")
     file1.write("Fill in the random works. Its all random I know.\n")
     file1.write("\nMy Daily logs:\n")
     file1.write(".\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n") 
-    print(date + "  DONE")
+    print(str(date) + "  DONE")
 
     # Closing file 
     file1.close() 
