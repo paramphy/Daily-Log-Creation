@@ -1,7 +1,9 @@
 import time
 import datetime
 import quotes
-import os.path 
+import os.path
+from plyer.utils import platform
+from plyer import notification 
 
 while True:
     path = r'C:\Users\param\Desktop\Daily_logs'
@@ -23,6 +25,13 @@ while True:
 
     # Closing file 
     file1.close() 
+
+    notification.notify(
+    title='Daily Log Time',
+    message='Go ahead write something',
+    app_name= str(date),
+    #app_icon='path/to/the/icon.' + ('ico' if platform == 'win' else 'png')
+    )
 
     # using sleep() to hault execution 
     time_t  = 12*60*60
