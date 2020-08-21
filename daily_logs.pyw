@@ -22,7 +22,7 @@ while True:
         file1.write("\n" + str(quotes.random_quote()) + "\n\n")
         file1.write("Fill in the random works. Its all random I know.\n")
         file1.write("\nMy Daily logs:\n")
-        file1.write(".\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n") 
+        file1.write(".\n.") 
         print(str(date) + "  DONE")
 
         # Closing file 
