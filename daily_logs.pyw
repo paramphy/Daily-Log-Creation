@@ -23,6 +23,9 @@ while True:
         file1.write("Fill in the random works. Its all random I know.\n")
         file1.write("\nMy Daily logs:\n")
         file1.write(".\n.") 
+        file1.write("#New\n")
+        file1.write(".\n")
+        file1.write("#Continued\n")
         print(str(date) + "  DONE")
 
         # Closing file 
