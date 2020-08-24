@@ -1,0 +1,446 @@
+Sat Aug  1 07:59:11 2020
+Don’t wait for opportunity. Create it.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. daily log python code
+. daily log python github repository
+. daily log folder uploded to github for secure storage 
+. cup.blend file created
+. almost done cup.blend 
+.
+.
+.
+.
+.
+.
+.
+
+Sun Aug  2 09:01:19 2020
+Your limitation—it’s only your imagination.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. updated my site with recent blender projects
+. updated github profile	
+. created pendulm.blend file
+. Submitted render of 3000 frames in evee
+.
+.
+.
+.
+.
+.
+.
+.
+
+
+Mon Aug  3 05:23:56 2020
+Success doesn’t just find you. You have to go out and get it.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. created google form for naac survey..SUDIPTA DI
+. editing pendulum video for youtube upload
+. browsed about rashberry pi and crowd render almost brought a rpi 4
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Tue Aug  4 08:35:33 2020
+Push yourself, because no one else is going to do it for you.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. Trying to test Rashbian
+. Sent the initial data of students to sudipta di
+. 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Wed Aug  5 08:20:57 2020
+Dream it. Wish it. Do it.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. Downloaded rashbian desktop full
+. trying to install in virtual box
+. found a new paper on camera calibration for sem imaging
+. feeling low.
+. need to do some work asap
+. 
+.
+.
+.
+.
+.
+.
+
+Thu Aug  6 06:55:34 2020
+Great things never come from comfort zones.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. creted orb blend file
+. trying to improve runblender.py file
+. sample count changing feature
+. image format choosing feature
+. Done pushed to github
+. Can sleep
+.
+.
+.
+.
+.
+.
+
+2020-08-08 09:41:33.536428
+Sometimes later becomes never. Do it now.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. Ordered micro hdmi to hdmi cable for rashberry pi display
+. modified the daily log creation tool
+. almost completed orb.blend. it looks good
+. tried to connect vnc with google colab without success
+.
+.
+.
+.
+.
+.
+.
+.
+
+2020-08-09 13:11:13.586415
+Wake up with determination. Go to bed with satisfaction.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. Sucessfully connected two laptops using crowdrender
+. Time to submit collected document to ashis da
+. Reseted my network setting
+. made a new blender file got deleted by mistake.
+. no i recoverd yeahh turned out to be a good one
+.
+.
+.
+.
+.
+.
+.
+
+2020-08-10 06:05:05.526254
+Push yourself, because no one else is going to do it for you.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. Sent preliminary collection od scholarship datas to Ashis sir.
+. trying to render with full illumination in google colab.
+. took 2 hours to render looks great
+. animation node some exsersizes
+.
+.
+.
+.
+.
+.
+.
+
+2020-08-11 09:31:36.045340
+Sometimes later becomes never. Do it now.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. cant find anything to do
+. fluid simulation. baking takes so long
+. Downloaded processing programming language
+. just wanna try my hand on simulation
+. processing is intersting but the book is more interesting for coding
+. processing code book first chapter complete. perlin noise new thing learnt
+. natron introduction good for small intros
+. yes i commit to learn processing. looks promising
+.
+.
+.
+.
+
+2020-08-12 10:25:17.453056
+Do something today that your future self will thank you for.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. prepared tution note
+. processing chapter 2 
+. render complition notification
+. plyer python module
+.
+.
+.
+.
+.
+.
+.
+.
+
+2020-08-13 17:26:41.781271
+Dream it. Wish it. Do it.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. Improved blender notify addon
+. runblender commited
+. should have done a processing codee but sadly not done
+. got a reply from runblender
+.
+.
+.
+.
+.
+.
+.
+.
+
+2020-08-14 10:25:40.357472
+Itï¿½s going to be hard, but hard does not mean impossible.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. Updated notify blender for gmail update
+. testing flip fluid
+. tested but the free one i.e mantaflow works almost well
+. Idea about using mantaflow full specification
+. ok i am doing mantaflow tutorial 
+.
+.
+.
+.
+.
+.
+.
+
+2020-08-15 08:31:11.267368
+The harder you work for something, the greater you’ll feel when you achieve it.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2020-08-15 09:20:04.416430
+Dream it. Believe it. Build it.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+2020-08-16 08:11:53.709579
+Success doesnï¿½t just find you. You have to go out and get it.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. Raspberry pi setup
+. samba setup
+. memory card become read only overcame that problem
+. nas file system setup
+.
+.
+.
+.
+.
+.
+.
+.
+
+2020-08-17 18:03:10.954201
+Do something today that your future self will thank you for.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. playing with pi
+. stress testing. made fan works so well with fan
+. tried to install jervis with no result
+. installing gym
+. 
+.
+.
+.
+.
+.
+.
+.
+
+2020-08-18 14:43:24.179984
+Donï¿½t wait for opportunity. Create it.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. tried to install openai baseline in pi without sucess
+. tried some experiment with blender with out outcome
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+2020-08-19 13:43:57.396106
+The harder you work for something, the greater youï¿½ll feel when you achieve it.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. updated the daily log python to work such as if the file is already present the programe will not excicute. 
+
+
+2020-08-20 09:13:24.090836
+Itï¿½s going to be hard, but hard does not mean impossible.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. Compiled flip fluid on my own
+. Set up samba nas server
+. 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2020-08-20 20:41:43.488235
+It’s going to be hard, but hard does not mean impossible.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2020-08-20 20:47:06.824638
+Dream bigger. Do bigger.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+2020-08-21 09:52:42.917125
+Dream it. Believe it. Build it.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. wanted to make a bot for the raspberry pi
+. tried leon - failed
+. tried hubot - failed
+. trind telegram-bot - 
+.
+.
+.
+.
+.
+.
+.
+.
+
+2020-08-22 11:38:15.248437
+Sometimes later becomes never. Do it now.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+. trying to crate a complicated flip fluid simulation project
+. gone trough raspberry pi projects. worth giving time
+. should do something about the telegram bot
+. Trying to install telegram bot
+2020-08-23 09:50:19.962504
+Itï¿½s going to be hard, but hard does not mean impossible.
+
+Fill in the random works. Its all random I know.
+
+My Daily logs:
+.
+.#New
+.
+#Continued
+.daily log creation pyhton file updated
+
