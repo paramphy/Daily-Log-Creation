@@ -11,15 +11,16 @@ while d < 24:
         massage = f.read()
         #print(massage)
         f.close()
-        f1 = open("demofile3.txt", "a")
+        f1 = open("demofile4.txt", "a")
         f1.write(massage)
+        f1.write('\n')
         f1.close()            
         d += 1
     except: 
         pass
         d += 1
 
-f2 = open("demofile3.txt","r")
+f2 = open("demofile4.txt","r")
 pullData = f2.read()
 dataArray = pullData.split('\n')
 text = '.'
