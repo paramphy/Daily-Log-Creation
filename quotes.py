@@ -1,5 +1,5 @@
 import random
-
+# We can a dedicated motivational quote library for the job
 def q1():
 
     quote = "Your limitation—it’s only your imagination."
