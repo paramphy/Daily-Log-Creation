@@ -11,21 +11,21 @@ while True:
     #rq = quotes.random_quote()
     clock_time = time.gmtime() 
     date = datetime.datetime.now()
-    name = str(clock_time.tm_mday) +"."+ str(clock_time.tm_mon)+ "." + str(clock_time.tm_year) + ".txt"
+    name = str(clock_time.tm_mday) +"."+ str(clock_time.tm_mon)+ "." + str(clock_time.tm_year) + ".md"
     completeName = os.path.join(path, name)
      
     
     # Writing to file 
     if os.path.isfile(completeName) == False:
         file1 = open(completeName, "a")
-        file1.write(str(date))
-        file1.write("\n" + str(quotes.random_quote()) + "\n\n")
-        file1.write("Fill in the random works. Its all random I know.\n")
-        file1.write("\nMy Daily logs:\n")
-        file1.write(".\n.") 
-        file1.write("#New\n")
-        file1.write(".\n")
-        file1.write("#Continued\n")
+        file1.write("# " + str(date))
+        file1.write("\n" + "## " + str(quotes.random_quote()) + "\n\n")
+        file1.write("## " + "Fill in the random works. Its all random I know.\n")
+        file1.write("## " + "\nMy Daily logs:\n")
+        file1.write("- \n- ") 
+        file1.write("## New\n")
+        file1.write("- \n")
+        file1.write("## Continued\n- ")
         print(str(date) + "  DONE")
 
         # Closing file 
